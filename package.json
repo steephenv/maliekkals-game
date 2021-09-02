@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shajanjp/ace-of-spades/issues"
+    "url": "https://github.com/steephenvrs3/maliekkals-game.git/issues"
   },
-  "homepage": "https://github.com/shajanjp/ace-of-spades#readme",
+  "homepage": "https://github.com/steephenvrs3/maliekkals-game.git#readme",
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^2.2.0"

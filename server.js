@@ -25,6 +25,12 @@ let NAMES_SET = [
   "nikru",
   "kuttapi",
 ];
+let NAMES_SET = [
+ "Unchanged Name",
+ "Unchanged Name",
+ "Unchanged Name",
+ "Unchanged Name"
+];
 let COLOR_SET = [
   "red",
   "orange",
